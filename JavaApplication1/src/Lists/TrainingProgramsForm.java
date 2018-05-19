@@ -47,7 +47,7 @@ public class TrainingProgramsForm extends GenericList {
                 list.setSelectionMode(
                     ListSelectionModel.MULTIPLE_INTERVAL_SELECTION);
                 int result = JOptionPane.showConfirmDialog(null, new JScrollPane(list));
-                JOptionPane.showMessageDialog(null, "Fsdfsd", "fdsfsXXXXXXXXXXXd");
+                JOptionPane.showMessageDialog(null, "Fsdfsd", "fsdfsdd");
            }
         });
         panel.add(addCoursesButton);
